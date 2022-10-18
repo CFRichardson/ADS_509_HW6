@@ -1,43 +1,4 @@
-ffdp
-[':black_heart:',
- ':red_heart:',
- ':sign_of_the_horns:',
- ':United_States:',
- ':blue_heart:',
- ':red_heart:',
- ':purple_heart:',
- ':guitar:',
- ':sparkles:',
- ':musical_notes:',
- ':rainbow_flag:',
- ':sign_of_the_horns_light_skin_tone:',
- ':fire:',
- ':video_game:',
- ':skull:',
- ':two_hearts:',
- ':smiling_face_with_sunglasses:',
- ':green_heart:',
- ':white_heart:',
- ':smiling_face_with_horns:']
-
-
-[':black_heart:',
- ':red_heart:',
- ':sign_of_the_horns:',
- ':United_States:',
- ':blue_heart:',
- ':red_heart:',
- ':purple_heart:',
- ':guitar:',
- ':sparkles:',
- ':musical_notes:',
- ':rainbow_flag:',
- ':sign_of_the_horns_light_skin_tone:',
- ':fire:',
- ':video_game:',
- ':skull:',
- ':two_hearts:',
- ':smiling_face_with_sunglasses:',
- ':green_heart:',
- ':white_heart:',
- ':smiling_face_with_horns:']
+ffdp_top_neg
+ffdp_top_pos
+rezz_top_pos
+rezz_top_neg
